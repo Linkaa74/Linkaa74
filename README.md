@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 #### 🌐 you can found me here:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/narukiazaruka) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Najwasaskiazarka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najwa-saskia-zarka-96b08b358/)
  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/narukiaz/_profile/) 
 
 #### 💻 i'm still in the learning process with:
