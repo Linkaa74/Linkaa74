@@ -46,4 +46,6 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=Linkaa74&icon=8&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/linkaa74/linkaa74/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
